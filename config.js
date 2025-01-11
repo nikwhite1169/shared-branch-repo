@@ -9,6 +9,6 @@ const GPT_API_KEY = process.env.GPT_API_KEY;
 
 export { GPT_API_KEY };
 export default {
-    GOOGLE_VISION_API_KEY: 'AIzaSyDwMCT2RAur7jB8zX50eYiyBVNV3yKWi0w',
+    GOOGLE_VISION_API_KEY: '',
   };
   
